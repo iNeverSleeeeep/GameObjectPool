@@ -1,6 +1,4 @@
-﻿using LuaInterface;
-using Nirvana;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

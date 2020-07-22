@@ -1,6 +1,4 @@
-﻿using Assets.Scripts.Common;
-using Nirvana;
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

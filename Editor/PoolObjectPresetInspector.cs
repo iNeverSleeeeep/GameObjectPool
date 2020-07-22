@@ -1,5 +1,4 @@
-﻿using Nirvana.Editor;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEditorInternal;
@@ -80,7 +79,7 @@ namespace Fusion.Editor
 
         private float ElementHeightCallback(int index)
         {
-            return AssetIDDrawer.Height;
+            return 14;
         }
 
         private void DrawElementCallback(Rect rect, int index, bool isActive, bool isFocused)

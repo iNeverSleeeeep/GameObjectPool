@@ -1,5 +1,4 @@
-﻿using Nirvana;
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -27,6 +26,6 @@ namespace Fusion
     {
         public PoolPreset preset;
         // 资源引用
-        public AssetID[] assets;
+        public string[] assets;
     }
 }
